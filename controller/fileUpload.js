@@ -6,6 +6,7 @@ cloudinary.config({
     cloud_name: 'dpv6py3wf',
     api_key: '336596334956272',
     api_secret: 'CdSvVrlgllYt5f3nAhjeAREBW-k'
+    
     // cloud_name: process.env.cloud_name,
     // api_key: process.env.api_key,
     // api_secret: process.env.api_secret
