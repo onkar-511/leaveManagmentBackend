@@ -27,6 +27,7 @@ const patientRegister = new mongoose.Schema({
   },
   role: {
     type: String,
+
     
     required: true
   },
