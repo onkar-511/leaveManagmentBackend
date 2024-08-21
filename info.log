@@ -1,0 +1,49 @@
+{"level":"info","message":{},"timestamp":"2024-08-18T05:05:37.654Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-18T06:30:10.710Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:25:20.313Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:37:08.319Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:37:14.377Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:37:17.682Z"}
+{"level":"info","message":"hi i am live","timestamp":"2024-08-20T16:37:17.683Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:37:29.374Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:39:06.417Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:40:31.316Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:42:44.278Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:42:58.077Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:43:01.732Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:43:09.017Z"}
+{"level":"info","message":"hi i am live","timestamp":"2024-08-20T16:43:09.019Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:44:54.586Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:47:00.437Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:47:16.182Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:47:28.233Z"}
+{"level":"info","message":"Username and password are required","success":false,"timestamp":"2024-08-20T16:47:28.705Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:47:45.444Z"}
+{"level":"info","message":"Username and password are required","success":false,"timestamp":"2024-08-20T16:47:45.889Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:48:33.457Z"}
+{"level":"info","message":"Username and password are required","success":false,"timestamp":"2024-08-20T16:48:33.871Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:49:00.713Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:49:03.448Z"}
+{"level":"info","message":"Username and password are required","success":false,"timestamp":"2024-08-20T16:49:03.896Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:54:18.491Z"}
+{"level":"info","message":{"msg":"Internal server error"},"timestamp":"2024-08-20T16:54:18.948Z"}
+{"level":"info","message":{},"timestamp":"2024-08-20T16:54:33.414Z"}
+{"level":"info","message":{"msg":"Internal server error"},"timestamp":"2024-08-20T16:54:38.066Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:57:50.192Z"}
+{"level":"info","message":"3005 yes i connected","timestamp":"2024-08-20T16:59:06.535Z"}
+{"level":"info","message":{"department":"maths","email":"abc@gmai.com","mob":"98698694646","name":"hanmant mane","password":"hanmant123","role":"teacher","username":"hanmant123"},"timestamp":"2024-08-20T17:00:19.795Z"}
+{"level":"info","message":{"__v":0,"_id":"66c4cba36e81797f053d928c","department":"maths","email":"abc@gmai.com","mob":"98698694646","name":"hanmant mane","password":"hanmant123","role":"teacher","username":"hanmant123"},"timestamp":"2024-08-20T17:00:22.517Z"}
+{"level":"info","message":{"department":"2","email":"onkar@gmai.com","mob":"7620160126","name":"onkar mane","password":"onkar123","role":"teacher","username":"onkar123"},"timestamp":"2024-08-20T17:29:59.893Z"}
+{"level":"info","message":{"__v":0,"_id":"66c4d2976e81797f053d9290","department":"2","email":"onkar@gmai.com","mob":"7620160126","name":"onkar mane","password":"onkar123","role":"teacher","username":"onkar123"},"timestamp":"2024-08-20T17:30:00.195Z"}
+{"level":"info","message":{"department":"3","email":"onkar@gmai.com","mob":"7620160126","name":"onkar mane","password":"onkar123","role":"teacher","username":"onkar123"},"timestamp":"2024-08-20T17:30:06.396Z"}
+{"level":"info","message":{"msg":"Username is already taken"},"timestamp":"2024-08-20T17:30:06.421Z"}
+{"level":"info","message":{"department":"3","email":"onkar@gmai.com","mob":"8620160126","name":"ram mane","password":"ram123","role":"teacher","username":"ram123"},"timestamp":"2024-08-20T17:30:37.390Z"}
+{"level":"info","message":{"__v":0,"_id":"66c4d2bd6e81797f053d9296","department":"3","email":"onkar@gmai.com","mob":"8620160126","name":"ram mane","password":"ram123","role":"teacher","username":"ram123"},"timestamp":"2024-08-20T17:30:37.482Z"}
+{"level":"info","message":{"department":"3","email":"onkar@gmai.com","mob":"8620160126","name":"ram mane","password":"ram123","role":"teacher","username":"ram123"},"timestamp":"2024-08-20T17:30:54.346Z"}
+{"level":"info","message":{"msg":"Username is already taken"},"timestamp":"2024-08-20T17:30:54.379Z"}
+{"level":"info","message":{"department":"3","email":"onkar@gmai.com","mob":"8620160126","name":"ram mane","password":"ram123","role":"teacher","username":"ram123"},"timestamp":"2024-08-20T17:32:49.909Z"}
+{"level":"info","message":{"accepted":["onkar@gmai.com"],"ehlo":["PIPELINING","8BITMIME","SMTPUTF8","AUTH LOGIN PLAIN"],"envelope":{"from":"onkar.mali511@gmail.com","to":["onkar@gmai.com"]},"envelopeTime":563,"messageId":"<fd61bbef-a9ce-dfb5-b1b9-cb79b82ab56c@gmail.com>","messageSize":607,"messageTime":373,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=ZkctjR4jA5Gy4RwqZsTTQ8Gk0kDvPlfQAAAADKcqaHZFp1c4-8cKyB42Mac]"},"timestamp":"2024-08-20T17:32:52.576Z"}
+{"level":"info","message":{"department":"4","email":"malionkar201998@gmail.com","mob":"7620160126","name":"ram mane","password":"ram123","role":"teacher","username":"ram123"},"timestamp":"2024-08-21T02:37:51.398Z"}
+{"level":"info","message":{"msg":"Username is already taken"},"timestamp":"2024-08-21T02:37:51.792Z"}
+{"level":"info","message":{"department":"4","email":"malionkar201998@gmail.com","mob":"7620160126","name":"sam mane","password":"sam123","role":"teacher","username":"sam123"},"timestamp":"2024-08-21T02:38:10.458Z"}
+{"level":"info","message":{"accepted":["malionkar201998@gmail.com"],"ehlo":["PIPELINING","8BITMIME","SMTPUTF8","AUTH LOGIN PLAIN"],"envelope":{"from":"onkar.mali511@gmail.com","to":["malionkar201998@gmail.com"]},"envelopeTime":622,"messageId":"<c975aca0-bfc4-cb60-91cc-62904f36799a@gmail.com>","messageSize":618,"messageTime":363,"rejected":[],"response":"250 Accepted [STATUS=new MSGID=ZkctjR4jA5Gy4RwqZsVTE8Gk0kDvP4IYAAAADfOXbiVYol3QpmLd4biiPa0]"},"timestamp":"2024-08-21T02:38:12.856Z"}
